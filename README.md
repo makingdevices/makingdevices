@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 You can write me on any social media and I will get back to you as soon as possible! 
 
-<img src="https://github.com/makingdevices/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/makingdevices/stats/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/makingdevices/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
