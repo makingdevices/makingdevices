@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hardware/Software Development
-🔓 Open Source Hardware and Software
-⚙️ PCB Design | Electronics
-🛰️ Embedded Systems
-👇 Links & media
-makingdevices.com/links
+Hardware/Software Development:
+- 🔓 Open Source Hardware and Software
+- ⚙️ PCB Design | Electronics
+- 🛰️ Embedded Systems
+- 👇 Links & media
+- makingdevices.com/links
 
