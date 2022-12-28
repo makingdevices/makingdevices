@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔓 Open Source Hardware and Software
 - ⚙️ PCB Design | Electronics
 - 🛰️ Embedded Systems
-- 👉 Links & media: makingdevices.com/links
+- 👉 Links & media: https://makingdevices.com/links
 
 You can write me on any social media and I will get back to you as soon as possible! 
 
