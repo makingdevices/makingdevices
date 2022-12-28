@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hardware/Software Development
+🔓 Open Source Hardware and Software
+⚙️ PCB Design | Electronics
+🛰️ Embedded Systems
+👇 Links & media
+makingdevices.com/links
+
