@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **makingdevices/makingdevices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hardware/Software Development:
+### Hi there 👋, I am into Hardware/Software Development:
 - 🔓 Open Source Hardware and Software
 - ⚙️ PCB Design | Electronics
 - 🛰️ Embedded Systems
-- 👇 Links & media
-- makingdevices.com/links
+- 👉 Links & media: makingdevices.com/links
+
+You can write me on any social media and I will get back to you as soon as possible! 
 
